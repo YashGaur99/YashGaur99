@@ -3,5 +3,6 @@
 <br>
 🌱 I share projects from my journey here.
 <br>
-📫 Reach out to me at
-[https://www.linkedin.com/in/yashgaur/]
+📫 Reach out to me on
+[Linkedin](https://www.linkedin.com/in/yashgaur/)
+
